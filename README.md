@@ -1,13 +1,11 @@
 
 
 # Hi there 👋, I'm Immaculate Okoro  
-### 💡 Analytics Engineer | Simplifying Data Concepts for Enthusiasts | Problem Solver  
-
+ 
 ---
 
 ### 🎯 About Me  
-I’m a **Business and Data Analytics Engineer** with a background in health. I am passionate about transforming raw data into meaningful insights that help organisations make smarter, evidence-based decisions.  
-
+I’m a ** Data Analytics and Engineer** with a background in health. I am passionate about transforming raw data into meaningful insights that help organisations make smarter, evidence-based decisions.  
 
 I enjoy breaking down data engineering fundamentals one concept at a time, experimenting with tools and cloud platforms and understanding at its core how platforms power Analytical solutions.
 
@@ -23,17 +21,10 @@ I enjoy breaking down data engineering fundamentals one concept at a time, exper
 
 ### 🚀 Currently Learning  
 - Building automated ELT pipelines using **Snowflake**, **dbt** and **GitHub Actions**  
-- Cloud deployment with **AWS**  
+- Cloud deployment with **AWS** **Azue** and **GCP** 
 - Streaming and real-time data processing concepts  
-- Strengthening data quality & monitoring techniques  
-
----
-
-### 📁 Featured Projects  
-🔹 [**NYC-Taxi-2024-ETL-pipeline**](nyc-taxi-2024-etl-pipeline) — SQL-based ELT pipeline for full and continuous load strategies, including pipeline health monitoring.  
-🔹 [**Snowflake-dbt-pipeline**](snowflake-dbt-pipeline) — Modern data pipeline built on Snowflake transformed and modeled with dbt, implementing CDC and Quality tests for a B2C e-commerce   
-🔹 [**Weekly Data Challenges**](weekly-data-challenge) — Repository showcasing continuous learning and analytics exercises.  
-
+- Strengthening data quality & monitoring techniques
+- Platform Engineering 
 
 
 ---
