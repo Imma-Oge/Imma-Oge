@@ -5,7 +5,7 @@
 ---
 
 ### 🎯 About Me  
-I’m a ** Data Analytics and Engineer** with a background in health. I am passionate about transforming raw data into meaningful insights that help organisations make smarter, evidence-based decisions.  
+I’m a **Data Analytics and Engineer** with a background in health. I am passionate about transforming raw data into meaningful insights that help organisations make smarter, evidence-based decisions.  
 
 I enjoy breaking down data engineering fundamentals one concept at a time, experimenting with tools and cloud platforms and understanding at its core how platforms power Analytical solutions.
 
