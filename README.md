@@ -30,10 +30,10 @@ I enjoy breaking down data engineering fundamentals one concept at a time, exper
 ---
 
 ### 🌍 Let’s Connect  
-📫 **Email:** ermmaculate97@gmail.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/immaculateogechi)  
-🐦 [**Twitter**](https://twitter.com/Lita_TheAnalyst)  
-📊 [**Portfolio Projects**](https://github.com/Imma-Oge?tab=repositories)  
+ **Email:** ermmaculate97@gmail.com  
+[**LinkedIn**](https://www.linkedin.com/in/immaculateogechi)  
+[**Twitter**](https://twitter.com/Lita_TheAnalyst)  
+[**Portfolio Projects**](https://github.com/Imma-Oge?tab=repositories)  
 
 ---
 
