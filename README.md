@@ -1,9 +1,3 @@
-
-
-# Hi there 👋, I'm Immaculate Okoro  
- 
----
-
 ### 🎯 About Me  
 I’m a **Data Analytics and Engineer**  I specialize in building scalable data pipelines, optimizing data workflows, and ensuring reliable data delivery across systems.
 
