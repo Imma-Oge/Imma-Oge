@@ -1,5 +1,5 @@
 ### 🎯 About Me  
-I’m a **Data Analytics and Engineer**  I specialize in building scalable data pipelines, optimizing data workflows, and ensuring reliable data delivery across systems.
+I’m a **Data Analyst and Engineer**  I specialize in building scalable data pipelines, optimizing data workflows, and ensuring reliable data delivery across systems.
 
 I am passionate about transforming raw data into meaningful insights that help organisations make smarter, evidence-based decisions.  
 
