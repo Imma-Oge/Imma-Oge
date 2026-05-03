@@ -15,7 +15,7 @@ I enjoy breaking down data engineering fundamentals one concept at a time, exper
 
 
 ---
-### 🚀 Currently Learning  
+### 🚀 Currently working with  
 - Building automated ELT pipelines using **Snowflake**, **dbt** and **GitHub Actions**  
 - Cloud deployment with **AWS**, **Azure** and **GCP** 
 - Streaming and real-time data processing concepts  
